@@ -37,8 +37,12 @@ server = http.createServer(app);
 server.listen(app.get('port'), function(){
   console.log("Express server listening on port " + app.get('port'));
 });
-
 io = io.listen(server);
+
+io.configure(function () {
+  io.set("transports", ["xhr-polling"]);
+  io.set("polling duration", 10);
+});
 var standings;
 refresh = function() {
   req = request.get({json: true, url: "http://hosted.stats.com/olympics/medals_widget/data.asp",}, function (e, r, body) {
