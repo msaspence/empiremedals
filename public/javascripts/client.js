@@ -838,7 +838,7 @@ var codes = {
   }
 };
 
-socket = io.connect('http://localhost');
+socket = io.connect('/');
 socket.on('standings',function(data) {
   table_body.html("");
   var medals = [];
