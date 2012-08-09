@@ -17,8 +17,7 @@
   ALB: {
     name: "Albania",
     empires: [
-      "ROM",
-      "MNG"
+      "ROM"
     ]
   },
   ALG: {
@@ -70,8 +69,7 @@
   AUT: {
     name: "Austria",
     empires: [
-      "ROM",
-      "MNG"
+      "ROM"
     ]
   },
   AZE: {
@@ -107,8 +105,7 @@
   BLR: {
     name: "Belarus",
     empires: [
-      "USR",
-      "MNG"
+      "USR"
     ]
   },
   BEL: {
@@ -144,8 +141,7 @@
   BIH: {
     name: "Bosnia and Herzegovina",
     empires: [
-      "ROM",
-      "MNG"
+      "ROM"
     ]
   },
   BOT: {
@@ -171,8 +167,7 @@
   BUL: {
     name: "Bulgaria",
     empires: [
-      "ROM",
-      "MNG"
+      "ROM"
     ]
   },
   BUR: {
@@ -260,8 +255,7 @@
   CRO: {
     name: "Croatia",
     empires: [
-      "ROM",
-      "MNG"
+      "ROM"
     ]
   },
   CUB: {
@@ -309,8 +303,7 @@
     name: "Egypt",
     empires: [
       "GBE",
-      "ROM",
-      "MNG"
+      "ROM"
     ]
   },
   ESA: {
@@ -328,8 +321,7 @@
   EST: {
     name: "Estonia",
     empires: [
-      "USR",
-      "MNG"
+      "USR"
     ]
   },
   ETH: {
@@ -366,8 +358,7 @@
     name: "Georgia",
     empires: [
       "ROM",
-      "USR",
-      "MNG"
+      "USR"
     ]
   },
   GER: {
@@ -385,8 +376,7 @@
   GRE: {
     name: "Greece",
     empires: [
-      "ROM",
-      "MNG"
+      "ROM"
     ]
   },
   GRN: {
@@ -472,8 +462,7 @@
   ISR: {
     name: "Israel",
     empires: [
-      "ROM",
-      "MNG"
+      "ROM"
     ]
   },
   ITA: {
@@ -490,9 +479,7 @@
   },
   JPN: {
     name: "Japan",
-    empires: [
-      "MNG"
-    ]
+    empires: []
   },
   JOR: {
     name: "Jordan",
@@ -551,15 +538,13 @@
   LAT: {
     name: "Latvia",
     empires: [
-      "USR",
-      "MNG"
+      "USR"
     ]
   },
   LIB: {
     name: "Lebanon",
     empires: [
-      "ROM",
-      "MNG"
+      "ROM"
     ]
   },
   LES: {
@@ -600,8 +585,7 @@
   MKD: {
     name: "Macedonia",
      empires: [
-      "ROM",
-      "MNG"
+      "ROM"
     ]
   },
   MAD: {
@@ -681,8 +665,7 @@
   MNE: {
     name: "Montenegro",
     empires: [
-      "ROM",
-      "MNG"
+      "ROM"
     ]
   },
   MAR: {
@@ -695,9 +678,7 @@
   },
   MYA: {
     name: "Myanmar (Burma)",
-    empires: [
-      "MNG"
-    ]
+    empires: []
   },
   NAM: {
     name: "Namibia",
@@ -748,7 +729,7 @@
   PAK: {
     name: "Pakistan",
     empires: [
-      "MNG"
+      "GBE"
     ]
   },
   PLW: {
@@ -758,8 +739,7 @@
   PLE: {
     name: "Palestine",
     empires: [
-      "ROM",
-      "MNG"
+      "ROM"
     ]
   },
   PAN: {
@@ -786,9 +766,7 @@
   },
   POL: {
     name: "Poland",
-    empires: [
-      "MNG"
-    ]
+    empires: []
   },
   POR: {
     name: "Portugal",
@@ -856,9 +834,7 @@
   },
   KSA: {
     name: "Saudi Arabia",
-    empires: [
-      "MNG"
-    ]
+    empires: []
   },
   SEN: {
     name: "Senegal",
@@ -867,8 +843,7 @@
   SRB: {
     name: "Serbia",
     empires: [
-      "ROM",
-      "MNG"
+      "ROM"
     ]
   },
   SEY: {
@@ -957,8 +932,7 @@
   SYR: {
     name: "Syria",
     empires: [
-      "ROM",
-      "MNG"
+      "ROM"
     ]
   },
   TPE: {
@@ -980,9 +954,7 @@
   },
   THA: {
     name: "Thailand",
-    empires: [
-      "MNG"
-    ]
+    empires: []
   },
   TOG: {
     name: "Togo",
@@ -1007,8 +979,7 @@
   TUR: {
     name: "Turkey",
     empires: [
-      "ROM",
-      "MNG"
+      "ROM"
     ]
   },
   TKM: {
