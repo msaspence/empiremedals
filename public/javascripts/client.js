@@ -6,7 +6,7 @@ table.append(table_body);
 table.css('float','left');
 $(function() {
   $('body').html(table);
-  $('body').append("<div style='margin-left: 30px; width: 400px; float: left'><p>Which modern countries are in what empires was hasterly constructed from some questionable sources. If you notice any that are wrong, poke me on twitter <a href='http://twitter.com/msaspence'>@msaspence</a>.</p><p>If you find this offensive because empires are opresive, sorry but its just a bit of fun and a chance to play with node.js. I'm sure you'll get over it.</p><p>If there are empires you wish to see added its <a href='http://github.com/msaspence/empiremedals'>open source</a>, knock your self out.</p></div>")
+  $('body').append("<div style='margin-left: 30px; width: 400px; float: left'><p>Which modern countries are in what empires was hastily constructed from some questionable sources. If you notice any that are wrong, poke me on twitter <a href='http://twitter.com/msaspence'>@msaspence</a>.</p><p>If you find this offensive because empires are oppresive, sorry but its just a bit of fun and a chance to play with node.js. I'm sure you'll get over it.</p><p>If there are empires you wish to see added its <a href='http://github.com/msaspence/empiremedals'>open source</a>, knock your self out.</p></div>")
 });
 
 $.ajax({
