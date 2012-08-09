@@ -1,0 +1,1128 @@
+{
+  AHO: {
+    name: "Netherlands Antilles",
+    empires: []
+  },
+  IOA: {
+    name: "Individual Olympic Athletes",
+    empires: []
+  },
+  AFG: {
+    name: "Afghanistan",
+    empires: [
+      "GBE",
+      "MNG"
+    ]
+  },
+  ALB: {
+    name: "Albania",
+    empires: [
+      "ROM",
+      "MNG"
+    ]
+  },
+  ALG: {
+    name: "Algeria",
+    empires: [
+      "ROM"
+    ]
+  },
+  ASA: {
+    name: "American Samoa*",
+    empires: []
+  },
+  AND: {
+    name: "Andorra",
+    empires: [
+      "ROM"
+    ]
+  },
+  ANG: {
+    name: "Angola",
+    empires: []
+  },
+  ANT: {
+    name: "Antigua and Barbuda",
+    empires: []
+  },
+  ARG: {
+    name: "Argentina",
+    empires: []
+  },
+  ARM: {
+    name: "Armenia",
+    empires: [
+      "ROM",
+      "USR",
+      "MNG"
+    ]
+  },
+  ARU: {
+    name: "Aruba*",
+    empires: []
+  },
+  AUS: {
+    name: "Australia",
+    empires: [
+      "GBE"
+    ]
+  },
+  AUT: {
+    name: "Austria",
+    empires: [
+      "ROM",
+      "MNG"
+    ]
+  },
+  AZE: {
+    name: "Azerbaijan",
+    empires: [
+      "ROM",
+      "USR",
+      "MNG"
+    ]
+  },
+  BAH: {
+    name: "The Bahamas",
+    empires: [
+      "GBE"
+    ]
+  },
+  BRN: {
+    name: "Bahrain",
+    empires: [
+      "GBE"
+    ]
+  },
+  BAN: {
+    name: "Bangladesh",
+    empires: []
+  },
+  BAR: {
+    name: "Barbados",
+    empires: [
+      "GBE"
+    ]
+  },
+  BLR: {
+    name: "Belarus",
+    empires: [
+      "USR",
+      "MNG"
+    ]
+  },
+  BEL: {
+    name: "Belgium",
+    empires: [
+      "ROM"
+    ]
+  },
+  BIZ: {
+    name: "Belize",
+    empires: [
+      "GBE"
+    ]
+  },
+  BER: {
+    name: "Bermuda",
+    empires: [
+      "GBE"
+    ]
+  },
+  BEN: {
+    name: "Benin",
+    empires: []
+  },
+  BHU: {
+    name: "Bhutan",
+    empires: []
+  },
+  BOL: {
+    name: "Bolivia",
+    empires: []
+  },
+  BIH: {
+    name: "Bosnia and Herzegovina",
+    empires: [
+      "ROM",
+      "MNG"
+    ]
+  },
+  BOT: {
+    name: "Botswana",
+    empires: [
+      "GBE"
+    ]
+  },
+  BRA: {
+    name: "Brazil",
+    empires: []
+  },
+  IVB: {
+    name: "British Virgin Islands*",
+    empires: []
+  },
+  BRU: {
+    name: "Brunei",
+    empires: [
+      "GBE"
+    ]
+  },
+  BUL: {
+    name: "Bulgaria",
+    empires: [
+      "ROM",
+      "MNG"
+    ]
+  },
+  BUR: {
+    name: "Burkina Faso",
+    empires: []
+  },
+  BDI: {
+    name: "Burundi",
+    empires: []
+  },
+  CAM: {
+    name: "Cambodia",
+    empires: []
+  },
+  CMR: {
+    name: "Cameroon",
+    empires: [
+      "GBE"
+    ]
+  },
+  CAN: {
+    name: "Canada",
+    empires: [
+      "GBE"
+    ]
+  },
+  CPV: {
+    name: "Cape Verde",
+    empires: []
+  },
+  CAY: {
+    name: "Cayman Islands",
+    empires: [
+      "GBE"
+    ]
+  },
+  CAF: {
+    name: "Central African Republic",
+    empires: []
+  },
+  CHA: {
+    name: "Chad",
+    empires: []
+  },
+  CHI: {
+    name: "Chile",
+    empires: []
+  },
+  CHN: {
+    name: "China",
+    empires: [
+      "MNG"
+    ]
+  },
+  COL: {
+    name: "Colombia",
+    empires: []
+  },
+  COM: {
+    name: "Comoros",
+    empires: []
+  },
+  CGO: {
+    name: "Congo, Republic of the",
+    empires: []
+  },
+  COD: {
+    name: "Congo, Democratic Republic of the",
+    empires: []
+  },
+  COK: {
+    name: "Cook Islands",
+    empires: [
+      "GBE"
+    ]
+  },
+  CRC: {
+    name: "Costa Rica",
+    empires: []
+  },
+  CIV: {
+    name: "Cote d'Ivoire",
+    empires: []
+  },
+  CRO: {
+    name: "Croatia",
+    empires: [
+      "ROM",
+      "MNG"
+    ]
+  },
+  CUB: {
+    name: "Cuba",
+    empires: []
+  },
+  CYP: {
+    name: "Cyprus",
+    empires: [
+      "GBE",
+      "ROM"
+    ]
+  },
+  CZE: {
+    name: "Czech Republic",
+    empires: [
+      "ROM"
+    ]
+  },
+  DEN: {
+    name: "Denmark",
+    empires: []
+  },
+  DJI: {
+    name: "Djibouti",
+    empires: []
+  },
+  DMA: {
+    name: "Dominica",
+    empires: []
+  },
+  DOM: {
+    name: "Dominican Republic",
+    empires: []
+  },
+  TLS: {
+    name: "East Timor (Timor-Leste)",
+    empires: []
+  },
+  ECU: {
+    name: "Ecuador",
+    empires: []
+  },
+  EGY: {
+    name: "Egypt",
+    empires: [
+      "GBE",
+      "ROM",
+      "MNG"
+    ]
+  },
+  ESA: {
+    name: "El Salvador",
+    empires: []
+  },
+  GEQ: {
+    name: "Equatorial Guinea",
+    empires: []
+  },
+  ERI: {
+    name: "Eritrea",
+    empires: []
+  },
+  EST: {
+    name: "Estonia",
+    empires: [
+      "USR",
+      "MNG"
+    ]
+  },
+  ETH: {
+    name: "Ethiopia",
+    empires: []
+  },
+  FIJ: {
+    name: "Fiji",
+    empires: [
+      "GBE"
+    ]
+  },
+  FIN: {
+    name: "Finland",
+    empires: []
+  },
+  FRA: {
+    name: "France",
+    empires: [
+      "ROM"
+    ]
+  },
+  GAB: {
+    name: "Gabon",
+    empires: []
+  },
+  GAM: {
+    name: "The Gambia",
+    empires: [
+      "GBE"
+    ]
+  },
+  GEO: {
+    name: "Georgia",
+    empires: [
+      "ROM",
+      "USR",
+      "MNG"
+    ]
+  },
+  GER: {
+    name: "Germany",
+    empires: [
+      "ROM"
+    ]
+  },
+  GHA: {
+    name: "Ghana",
+    empires: [
+      "GBE"
+    ]
+  },
+  GRE: {
+    name: "Greece",
+    empires: [
+      "ROM",
+      "MNG"
+    ]
+  },
+  GRN: {
+    name: "Grenada",
+    empires: [
+      "GBE"
+    ]
+  },
+  GUM: {
+    name: "Guam",
+    empires: []
+  },
+  GUA: {
+    name: "Guatemala",
+    empires: []
+  },
+  GUI: {
+    name: "Guinea",
+    empires: []
+  },
+  GBS: {
+    name: "Guinea-Bissau",
+    empires: []
+  },
+  GUY: {
+    name: "Guyana",
+    empires: [
+      "GBE"
+    ]
+  },
+  HAI: {
+    name: "Haiti",
+    empires: []
+  },
+  HON: {
+    name: "Honduras",
+    empires: []
+  },
+  HKG: {
+    name: "Hong Kong",
+    empires: [
+      "GBE"
+    ]
+  },
+  HUN: {
+    name: "Hungary",
+    empires: [
+      "ROM",
+      "MNG"
+    ]
+  },
+  ISL: {
+    name: "Iceland",
+    empires: []
+  },
+  IND: {
+    name: "India",
+    empires: [
+      "GBE"
+    ]
+  },
+  INA: {
+    name: "Indonesia",
+    empires: []
+  },
+  IRI: {
+    name: "Iran",
+    empires: [
+      "MNG"
+    ]
+  },
+  IRQ: {
+    name: "Iraq",
+    empires: [
+      "ROM",
+      "MNG"
+    ]
+  },
+  IRL: {
+    name: "Ireland",
+    empires: []
+  },
+  ISR: {
+    name: "Israel",
+    empires: [
+      "ROM",
+      "MNG"
+    ]
+  },
+  ITA: {
+    name: "Italy",
+    empires: [
+      "ROM"
+    ]
+  },
+  JAM: {
+    name: "Jamaica",
+    empires: [
+      "GBE"
+    ]
+  },
+  JPN: {
+    name: "Japan",
+    empires: [
+      "MNG"
+    ]
+  },
+  JOR: {
+    name: "Jordan",
+    empires: [
+      "ROM",
+      "MNG"
+    ]
+  },
+  KAZ: {
+    name: "Kazakhstan",
+    empires: [
+      "USR",
+      "MNG"
+    ]
+  },
+  KEN: {
+    name: "Kenya",
+    empires: [
+      "GBE"
+    ]
+  },
+  KIR: {
+    name: "Kiribati",
+    empires: []
+  },
+  PRK: {
+    name: "Korea, North",
+    empires: [
+      "MNG"
+    ]
+  },
+  KOR: {
+    name: "Korea, South",
+    empires: [
+      "MNG"
+    ]
+  },
+  KUW: {
+    name: "Kuwait",
+    empires: [
+      "GBE",
+      "MNG"
+    ]
+  },
+  KGZ: {
+    name: "Kyrgyzstan",
+    empires: [
+      "USR",
+      "MNG"
+    ]
+  },
+  LAO: {
+    name: "Laos",
+    empires: []
+  },
+  LAT: {
+    name: "Latvia",
+    empires: [
+      "USR",
+      "MNG"
+    ]
+  },
+  LIB: {
+    name: "Lebanon",
+    empires: [
+      "ROM",
+      "MNG"
+    ]
+  },
+  LES: {
+    name: "Lesotho",
+    empires: [
+      "GBE"
+    ]
+  },
+  LBR: {
+    name: "Liberia",
+    empires: []
+  },
+  LBA: {
+    name: "Libya",
+    empires: [
+      "ROM"
+    ]
+  },
+  LIE: {
+    name: "Liechtenstein",
+    empires: [
+      "ROM"
+    ]
+  },
+  LTU: {
+    name: "Lithuania",
+    empires: [
+      "USR",
+      "MNG"
+    ]
+  },
+  LUX: {
+    name: "Luxembourg",
+    empires: [
+      "ROM"
+    ]
+  },
+  MKD: {
+    name: "Macedonia",
+     empires: [
+      "ROM",
+      "MNG"
+    ]
+  },
+  MAD: {
+    name: "Madagascar",
+    empires: []
+  },
+  MAW: {
+    name: "Malawi",
+    empires: [
+      "GBE"
+    ]
+  },
+  MAS: {
+    name: "Malaysia",
+    empires: [
+      "GBE"
+    ]
+  },
+  MDV: {
+    name: "Maldives",
+    empires: [
+      "GBE"
+    ]
+  },
+  MLI: {
+    name: "Mali",
+    empires: []
+  },
+  MLT: {
+    name: "Malta",
+    empires: [
+      "GBE",
+      "ROM"
+    ]
+  },
+  MHL: {
+    name: "Marshall Islands",
+    empires: []
+  },
+  MTN: {
+    name: "Mauritania",
+    empires: []
+  },
+  MRI: {
+    name: "Mauritius",
+    empires: [
+      "GBE"
+    ]
+  },
+  MEX: {
+    name: "Mexico",
+    empires: []
+  },
+  FSM: {
+    name: "Federated States of Micronesia",
+    empires: []
+  },
+  MDA: {
+    name: "Moldova",
+    empires: [
+      "USR",
+      "MNG"
+    ]
+  },
+  MON: {
+    name: "Monaco",
+    empires: [
+      "ROM"
+    ]
+  },
+  MGL: {
+    name: "Mongolia",
+    empires: [
+      "MNG"
+    ]
+  },
+  MNE: {
+    name: "Montenegro",
+    empires: [
+      "ROM",
+      "MNG"
+    ]
+  },
+  MAR: {
+    name: "Morocco",
+    empires: []
+  },
+  MOZ: {
+    name: "Mozambique",
+    empires: []
+  },
+  MYA: {
+    name: "Myanmar (Burma)",
+    empires: [
+      "MNG"
+    ]
+  },
+  NAM: {
+    name: "Namibia",
+    empires: []
+  },
+  NRU: {
+    name: "Nauru",
+    empires: []
+  },
+  NEP: {
+    name: "Nepal",
+    empires: []
+  },
+  NED: {
+    name: "Netherlands",
+    empires: [
+      "ROM"
+    ]
+  },
+  NZL: {
+    name: "New Zealand",
+    empires: [
+      "GBE"
+    ]
+  },
+  NCA: {
+    name: "Nicaragua",
+    empires: []
+  },
+  NIG: {
+    name: "Niger",
+    empires: []
+  },
+  NGR: {
+    name: "Nigeria",
+    empires: [
+      "GBE"
+    ]
+  },
+  NOR: {
+    name: "Norway",
+    empires: []
+  },
+  OMA: {
+    name: "Oman",
+    empires: []
+  },
+  PAK: {
+    name: "Pakistan",
+    empires: [
+      "MNG"
+    ]
+  },
+  PLW: {
+    name: "Palau",
+    empires: []
+  },
+  PLE: {
+    name: "Palestine",
+    empires: [
+      "ROM",
+      "MNG"
+    ]
+  },
+  PAN: {
+    name: "Panama",
+    empires: []
+  },
+  PNG: {
+    name: "Papua New Guinea",
+    empires: [
+      "GBE"
+    ]
+  },
+  PAR: {
+    name: "Paraguay",
+    empires: []
+  },
+  PER: {
+    name: "Peru",
+    empires: []
+  },
+  PHI: {
+    name: "Philippines",
+    empires: []
+  },
+  POL: {
+    name: "Poland",
+    empires: [
+      "MNG"
+    ]
+  },
+  POR: {
+    name: "Portugal",
+    empires: [
+      "ROM"
+    ]
+  },
+  PUR: {
+    name: "Puerto Rico*",
+    empires: []
+  },
+  QAT: {
+    name: "Qatar",
+    empires: []
+  },
+  ROU: {
+    name: "Romania",
+    empires: [
+      "ROM",
+      "MNG"
+    ]
+  },
+  RUS: {
+    name: "Russian Federation",
+    empires: [
+      "USR",
+      "MNG"
+    ]
+  },
+  RWA: {
+    name: "Rwanda",
+    empires: []
+  },
+  SKN: {
+    name: "Saint Kitts and Nevis",
+    empires: []
+  },
+  LCA: {
+    name: "Saint Lucia",
+    empires: [
+      "GBE"
+    ]
+  },
+  VIN: {
+    name: "Saint Vincent and the Grenadines",
+    empires: [
+      "GBE"
+    ]
+  },
+  SAM: {
+    name: "Samoa",
+    empires: [
+      "GBE"
+    ]
+  },
+  SMR: {
+    name: "San Marino",
+    empires: [
+      "ROM"
+    ]
+  },
+  STP: {
+    name: "Sao Tome and Principe",
+    empires: []
+  },
+  KSA: {
+    name: "Saudi Arabia",
+    empires: [
+      "MNG"
+    ]
+  },
+  SEN: {
+    name: "Senegal",
+    empires: []
+  },
+  SRB: {
+    name: "Serbia",
+    empires: [
+      "ROM",
+      "MNG"
+    ]
+  },
+  SEY: {
+    name: "Seychelles",
+    empires: [
+      "GBE"
+    ]
+  },
+  SLE: {
+    name: "Sierra Leone",
+    empires: [
+      "GBE"
+    ]
+  },
+  SIN: {
+    name: "Singapore",
+    empires: [
+      "GBE"
+    ]
+  },
+  SVK: {
+    name: "Slovakia",
+    empires: [
+      "ROM"
+    ]
+  },
+  SLO: {
+    name: "Slovenia",
+    empires: [
+      "ROM"
+    ]
+  },
+  SOL: {
+    name: "Solomon Islands",
+    empires: []
+  },
+  SOM: {
+    name: "Somalia",
+    empires: [
+      "GBE"
+    ]
+  },
+  RSA: {
+    name: "South Africa",
+    empires: [
+      "GBE"
+    ]
+  },
+  ESP: {
+    name: "Spain",
+    empires: [
+      "ROM"
+    ]
+  },
+  SRI: {
+    name: "Sri Lanka",
+    empires: [
+      "GBE"
+    ]
+  },
+  SUD: {
+    name: "Sudan",
+    empires: [
+      "GBE",
+      "ROM"
+    ]
+  },
+  SUR: {
+    name: "Suriname",
+    empires: []
+  },
+  SWZ: {
+    name: "Swaziland",
+    empires: []
+  },
+  SWE: {
+    name: "Sweden",
+    empires: []
+  },
+  SUI: {
+    name: "Switzerland",
+    empires: [
+      "ROM"
+    ]
+  },
+  SYR: {
+    name: "Syria",
+    empires: [
+      "ROM",
+      "MNG"
+    ]
+  },
+  TPE: {
+    name: "Taiwan (Chinese Taipei)",
+    empires: []
+  },
+  TJK: {
+    name: "Tajikistan",
+    empires: [
+      "USR",
+      "MNG"
+    ]
+  },
+  TAN: {
+    name: "Tanzania",
+    empires: [
+      "GBE"
+    ]
+  },
+  THA: {
+    name: "Thailand",
+    empires: [
+      "MNG"
+    ]
+  },
+  TOG: {
+    name: "Togo",
+    empires: []
+  },
+  TGA: {
+    name: "Tonga",
+    empires: []
+  },
+  TRI: {
+    name: "Trinidad and Tobago",
+    empires: [
+      "GBE"
+    ]
+  },
+  TUN: {
+    name: "Tunisia",
+    empires: [
+      "ROM"
+    ]
+  },
+  TUR: {
+    name: "Turkey",
+    empires: [
+      "ROM",
+      "MNG"
+    ]
+  },
+  TKM: {
+    name: "Turkmenistan",
+    empires: [
+      "USR",
+      "MNG"
+    ]
+  },
+  TUV: {
+    name: "Tuvalu",
+    empires: []
+  },
+  UGA: {
+    name: "Uganda",
+    empires: [
+      "GBE"
+    ]
+  },
+  UKR: {
+    name: "Ukraine",
+    empires: [
+      "USR",
+      "MNG"
+    ]
+  },
+  UAE: {
+    name: "United Arab Emirates",
+    empires: [
+      "GBE"
+    ]
+  },
+  GBR: {
+    name: "United Kingdom (Great Britain)",
+    empires: [
+      "GBE",
+      "ROM"
+    ]
+  },
+  USA: {
+    name: "United States",
+    empires: []
+  },
+  URU: {
+    name: "Uruguay",
+    empires: []
+  },
+  UZB: {
+    name: "Uzbekistan",
+    empires: [
+      "USR",
+      "MNG"
+    ]
+  },
+  VAN: {
+    name: "Vanuatu",
+    empires: []
+  },
+  VEN: {
+    name: "Venezuela",
+    empires: []
+  },
+  VIE: {
+    name: "Vietnam",
+    empires: [
+      "MNG"
+    ]
+  },
+  ISV: {
+    name: "Virgin Islands*",
+    empires: []
+  },
+  YEM: {
+    name: "Yemen",
+    empires: [
+      "GBE"
+    ]
+  },
+  ZAM: {
+    name: "Zambia",
+    empires: []
+  },
+  ZIM: {
+    name: "Zimbabwe",
+    empires: [
+      "GBE"
+    ]
+  },
+  GBE: {
+    name: "British Empire",
+    background: "pink",
+    color: "black",
+    empire: true,
+    empires: []
+  },
+  ROM: {
+    name: "Roman Empire",
+    background: "purple",
+    color: "white",
+    empire: true,
+    empires: []
+  },
+  USR: {
+    name: "Soviet Union",
+    background: "red",
+    color: "white",
+    empire: true,
+    empires: []
+  },
+  MNG: {
+    name: "Mongol Empire",
+    background: "brown",
+    color: "white",
+    empire: true,
+    empires: []
+  }
+}
