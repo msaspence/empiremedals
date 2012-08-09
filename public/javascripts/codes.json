@@ -1085,7 +1085,7 @@
   USR: {
     name: "Soviet Union",
     background: "red",
-    color: "white",
+    color: "yellow",
     empire: true,
     empires: []
   },
