@@ -38,6 +38,7 @@ $.ajax({
         });
         if (codes[key].empires && codes[key].empires.length) {
           $.each(codes[key].empires,function(key,empire) {
+
             codes[empire].total += parseInt(value.total);
             codes[empire].gold += parseInt(value.gold);
             codes[empire].silver += parseInt(value.silver);

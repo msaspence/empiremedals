@@ -42,7 +42,9 @@
   },
   ANT: {
     name: "Antigua and Barbuda",
-    empires: []
+    empires: [
+      "CWR"
+    ]
   },
   ARG: {
     name: "Argentina",
@@ -63,7 +65,8 @@
   AUS: {
     name: "Australia",
     empires: [
-      "GBE"
+      "GBE",
+      "CWR"
     ]
   },
   AUT: {
@@ -99,7 +102,8 @@
   BAR: {
     name: "Barbados",
     empires: [
-      "GBE"
+      "GBE",
+      "CWR"
     ]
   },
   BLR: {
@@ -117,7 +121,8 @@
   BIZ: {
     name: "Belize",
     empires: [
-      "GBE"
+      "GBE",
+      "CWR"
     ]
   },
   BER: {
@@ -191,7 +196,8 @@
   CAN: {
     name: "Canada",
     empires: [
-      "GBE"
+      "GBE",
+      "CWR"
     ]
   },
   CPV: {
@@ -382,7 +388,8 @@
   GRN: {
     name: "Grenada",
     empires: [
-      "GBE"
+      "GBE",
+      "CWR"
     ]
   },
   GUM: {
@@ -474,7 +481,8 @@
   JAM: {
     name: "Jamaica",
     empires: [
-      "GBE"
+      "GBE",
+      "CWR"
     ]
   },
   JPN: {
@@ -701,7 +709,8 @@
   NZL: {
     name: "New Zealand",
     empires: [
-      "GBE"
+      "GBE",
+      "CWR"
     ]
   },
   NCA: {
@@ -749,7 +758,8 @@
   PNG: {
     name: "Papua New Guinea",
     empires: [
-      "GBE"
+      "GBE",
+      "CWR"
     ]
   },
   PAR: {
@@ -802,18 +812,22 @@
   },
   SKN: {
     name: "Saint Kitts and Nevis",
-    empires: []
+    empires: [
+      "CWR"
+    ]
   },
   LCA: {
     name: "Saint Lucia",
     empires: [
-      "GBE"
+      "GBE",
+      "CWR"
     ]
   },
   VIN: {
     name: "Saint Vincent and the Grenadines",
     empires: [
-      "GBE"
+      "GBE",
+      "CWR"
     ]
   },
   SAM: {
@@ -878,7 +892,9 @@
   },
   SOL: {
     name: "Solomon Islands",
-    empires: []
+    empires: [
+      "CWR"
+    ]
   },
   SOM: {
     name: "Somalia",
@@ -991,7 +1007,9 @@
   },
   TUV: {
     name: "Tuvalu",
-    empires: []
+    empires: [
+      "CWR"
+    ]
   },
   UGA: {
     name: "Uganda",
@@ -1016,7 +1034,8 @@
     name: "United Kingdom (Great Britain)",
     empires: [
       "GBE",
-      "ROM"
+      "ROM",
+      "CWR"
     ]
   },
   USA: {
@@ -1093,6 +1112,13 @@
     name: "Mongol Empire",
     background: "brown",
     color: "white",
+    empire: true,
+    empires: []
+  },
+  CWR: {
+    name: "Commonwealth Realms",
+    background: "gold",
+    color: "red",
     empire: true,
     empires: []
   }
